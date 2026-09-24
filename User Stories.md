@@ -1,24 +1,21 @@
 User Story 1
 As a _Player_____, I want to _Win the game_____, so that I can __Awards____.
 
-Acceptance Criteria 1:The player can [do something specific].
-As the player wins the race
-Acceptance Criteria 2:The game shows [feedback/result].
-Trophies show up and rewards for winning it
-User Story 2
-As a _Developer____, I want to _include new features _____, so that I can _Improve my game_____.
+Acceptance Criteria 1:The player can pass the final lap while in 1st place
+Acceptance Criteria 2:The game shows the victory screen and shows trophies
 
-Acceptance Criteria 1:The player can [do something specific].
-Developer creates and adds new code
-Acceptance Criteria 2:The game shows [feedback/result].
-various improvements and the user likes it.
+
+User Story 2
+As a player, I want to customize my car, so that I can have a faster car.
+
+Acceptance Criteria 1:The player can go to the customization screen
+Acceptance Criteria 2:The game shows various different things they can use to make their car unique
+
 
 User Story 3
-As a __Tester____, I want to _check if the game is running smootly _____, so that I can __release it.
+As a Player, I want to change my character, so that I can play as who I want.
 
-Acceptance Criteria 1:The player can [do something specific].
-tester reviews the game for bugs or broken code
+Acceptance Criteria 1:The player can be directed to the character selection screen
 
-Acceptance Criteria 2:The game shows [feedback/result].
-Tester tells developer to fix the bugs
+Acceptance Criteria 2:The game shows a list of custom and unique characters for the player to choose.
 
